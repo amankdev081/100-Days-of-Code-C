@@ -1,0 +1,13 @@
+# Ignore compiled executables
+*.out
+*.exe
+[a-zA-Z0-9]*
+
+# Un-Ignore Directories
+!*/
+
+# Protect C source files
+!*.c
+!*.h
+!README.md
+!.gitignore
